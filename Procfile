@@ -1,0 +1,1 @@
+web: gunicorn osue.wsgi --log-file -
